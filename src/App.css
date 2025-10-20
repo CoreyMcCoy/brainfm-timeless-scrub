@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+#root {
+  @apply max-w-6xl mx-auto;
+}
+
